@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Build and dist folders
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage/test reports
+coverage/
+.nyc_output/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
